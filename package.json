@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"version":"1.0.0",
-	"author":"aguzmant",
+  "author":"aguzmant",
+  "description":"This is the 'Managing Packages with Npm course'",
+  "keywords":["freecodecamp","back-end","back","end"],
+  "license":"MIT",
+  "version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
